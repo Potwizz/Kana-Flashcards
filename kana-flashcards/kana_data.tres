@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="KanaData" format=3 uid="uid://3uwohaulc5vo"]
+
+[ext_resource type="Script" uid="uid://c63aaf7s1mjar" path="res://kana_data.gd" id="1_g5ko2"]
+
+[resource]
+script = ExtResource("1_g5ko2")
+romaji_character = "a"
+kana_character = "あ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"

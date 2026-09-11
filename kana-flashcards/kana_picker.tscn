@@ -1,0 +1,36 @@
+[gd_scene format=3 uid="uid://btiufkabhbgvf"]
+
+[ext_resource type="Script" uid="uid://nyr4wuksmilu" path="res://kana_picker.gd" id="1_w070a"]
+[ext_resource type="Resource" uid="uid://c3vp2jeyi3c3x" path="res://kana_tables.tres" id="2_8lkmg"]
+
+[node name="KanaPicker" type="Control" unique_id=1675125928]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_w070a")
+kana_table = ExtResource("2_8lkmg")
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=349896522]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -10.0
+offset_top = -4.0
+offset_right = 10.0
+offset_bottom = 4.0
+grow_horizontal = 2
+grow_vertical = 2
+columns = 4
+
+[node name="Button" type="Button" parent="GridContainer" unique_id=647475781]
+layout_mode = 2
+
+[node name="Button2" type="Button" parent="GridContainer" unique_id=759830729]
+layout_mode = 2

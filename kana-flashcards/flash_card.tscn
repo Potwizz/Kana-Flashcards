@@ -1,6 +1,277 @@
 [gd_scene format=3 uid="uid://dasofh8t2e4ds"]
 
 [ext_resource type="Script" uid="uid://cgaue66ucq58n" path="res://flash_card.gd" id="1_n6yc6"]
+[ext_resource type="Script" uid="uid://c63aaf7s1mjar" path="res://kana_data.gd" id="2_flpgx"]
+
+[sub_resource type="Resource" id="Resource_mpvbm"]
+script = ExtResource("2_flpgx")
+romaji_character = "a"
+kana_character = "あ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_flpgx"]
+script = ExtResource("2_flpgx")
+romaji_character = "i"
+kana_character = "い"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_b0gj0"]
+script = ExtResource("2_flpgx")
+romaji_character = "u"
+kana_character = "う"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_qoeoj"]
+script = ExtResource("2_flpgx")
+romaji_character = "e"
+kana_character = "え"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_iiqp0"]
+script = ExtResource("2_flpgx")
+romaji_character = "o"
+kana_character = "お"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_tpsql"]
+script = ExtResource("2_flpgx")
+romaji_character = "ka"
+kana_character = "か"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_f3vsi"]
+script = ExtResource("2_flpgx")
+romaji_character = "ki"
+kana_character = "き"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_y2762"]
+script = ExtResource("2_flpgx")
+romaji_character = "ku"
+kana_character = "く"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_6vxnf"]
+script = ExtResource("2_flpgx")
+romaji_character = "ke"
+kana_character = "け"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_lkfe0"]
+script = ExtResource("2_flpgx")
+romaji_character = "ko"
+kana_character = "こ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_brh6v"]
+script = ExtResource("2_flpgx")
+romaji_character = "sa"
+kana_character = "さ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_12kok"]
+script = ExtResource("2_flpgx")
+romaji_character = "shi"
+kana_character = "し"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_sk5bc"]
+script = ExtResource("2_flpgx")
+romaji_character = "su"
+kana_character = "す"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_73gpq"]
+script = ExtResource("2_flpgx")
+romaji_character = "se"
+kana_character = "せ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_njydj"]
+script = ExtResource("2_flpgx")
+romaji_character = "so"
+kana_character = "そ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_7rjgb"]
+script = ExtResource("2_flpgx")
+romaji_character = "ta"
+kana_character = "た"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_aoyd8"]
+script = ExtResource("2_flpgx")
+romaji_character = "chi"
+kana_character = "ち"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_o0v0k"]
+script = ExtResource("2_flpgx")
+romaji_character = "tsu"
+kana_character = "つ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_n6o6v"]
+script = ExtResource("2_flpgx")
+romaji_character = "te"
+kana_character = "て"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_fm3qg"]
+script = ExtResource("2_flpgx")
+romaji_character = "to"
+kana_character = "と"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_pkns8"]
+script = ExtResource("2_flpgx")
+romaji_character = "na"
+kana_character = "な"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_3awaj"]
+script = ExtResource("2_flpgx")
+romaji_character = "ni"
+kana_character = "に"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_0okls"]
+script = ExtResource("2_flpgx")
+romaji_character = "nu"
+kana_character = "ぬ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_cbamx"]
+script = ExtResource("2_flpgx")
+romaji_character = "ne"
+kana_character = "ね"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_xx7iq"]
+script = ExtResource("2_flpgx")
+romaji_character = "no"
+kana_character = "の"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_eu6ns"]
+script = ExtResource("2_flpgx")
+romaji_character = "ha"
+kana_character = "は"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_f0ya7"]
+script = ExtResource("2_flpgx")
+romaji_character = "hi"
+kana_character = "ひ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_pe7ov"]
+script = ExtResource("2_flpgx")
+romaji_character = "fu"
+kana_character = "ふ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_57ljf"]
+script = ExtResource("2_flpgx")
+romaji_character = "he"
+kana_character = "へ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_t2ul6"]
+script = ExtResource("2_flpgx")
+romaji_character = "ho"
+kana_character = "ほ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_fx85c"]
+script = ExtResource("2_flpgx")
+romaji_character = "ma"
+kana_character = "ま"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_6ls0a"]
+script = ExtResource("2_flpgx")
+romaji_character = "mi"
+kana_character = "み"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_ctsis"]
+script = ExtResource("2_flpgx")
+romaji_character = "mu"
+kana_character = "む"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_f6nqn"]
+script = ExtResource("2_flpgx")
+romaji_character = "me"
+kana_character = "め"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_n5te5"]
+script = ExtResource("2_flpgx")
+romaji_character = "mo"
+kana_character = "も"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_g67wl"]
+script = ExtResource("2_flpgx")
+romaji_character = "ya"
+kana_character = "や"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_ao50m"]
+script = ExtResource("2_flpgx")
+romaji_character = "ye"
+kana_character = "ゆ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_pt1xn"]
+script = ExtResource("2_flpgx")
+romaji_character = "yo"
+kana_character = "よ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_gmo00"]
+script = ExtResource("2_flpgx")
+romaji_character = "ra"
+kana_character = "ら"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_woe0r"]
+script = ExtResource("2_flpgx")
+romaji_character = "ri"
+kana_character = "り"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_v5rp8"]
+script = ExtResource("2_flpgx")
+romaji_character = "ru"
+kana_character = "る"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_q7aou"]
+script = ExtResource("2_flpgx")
+romaji_character = "re"
+kana_character = "れ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_yenov"]
+script = ExtResource("2_flpgx")
+romaji_character = "ro"
+kana_character = "ろ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_cp071"]
+script = ExtResource("2_flpgx")
+romaji_character = "wa"
+kana_character = "わ"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
+
+[sub_resource type="Resource" id="Resource_jh4sx"]
+script = ExtResource("2_flpgx")
+romaji_character = "wo"
+kana_character = "を"
+metadata/_custom_type_script = "uid://c63aaf7s1mjar"
 
 [node name="FlashCard" type="Control" unique_id=1924662490]
 layout_mode = 3
@@ -10,6 +281,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_n6yc6")
+kana_array = Array[ExtResource("2_flpgx")]([SubResource("Resource_mpvbm"), SubResource("Resource_flpgx"), SubResource("Resource_b0gj0"), SubResource("Resource_qoeoj"), SubResource("Resource_iiqp0"), SubResource("Resource_tpsql"), SubResource("Resource_f3vsi"), SubResource("Resource_y2762"), SubResource("Resource_6vxnf"), SubResource("Resource_lkfe0"), SubResource("Resource_brh6v"), SubResource("Resource_12kok"), SubResource("Resource_sk5bc"), SubResource("Resource_73gpq"), SubResource("Resource_njydj"), SubResource("Resource_7rjgb"), SubResource("Resource_aoyd8"), SubResource("Resource_o0v0k"), SubResource("Resource_n6o6v"), SubResource("Resource_fm3qg"), SubResource("Resource_pkns8"), SubResource("Resource_3awaj"), SubResource("Resource_0okls"), SubResource("Resource_cbamx"), SubResource("Resource_xx7iq"), SubResource("Resource_eu6ns"), SubResource("Resource_f0ya7"), SubResource("Resource_pe7ov"), SubResource("Resource_57ljf"), SubResource("Resource_t2ul6"), SubResource("Resource_fx85c"), SubResource("Resource_6ls0a"), SubResource("Resource_ctsis"), SubResource("Resource_f6nqn"), SubResource("Resource_n5te5"), SubResource("Resource_g67wl"), SubResource("Resource_ao50m"), SubResource("Resource_pt1xn"), SubResource("Resource_gmo00"), SubResource("Resource_woe0r"), SubResource("Resource_v5rp8"), SubResource("Resource_q7aou"), SubResource("Resource_yenov"), SubResource("Resource_cp071"), SubResource("Resource_jh4sx")])
 
 [node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1337633122]
 layout_mode = 1
